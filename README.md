@@ -50,5 +50,5 @@ practical labs.
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/enriquemed23/Detection-Lab/tree/main">Detection Lab</a>
 - SOC Automation Project
