@@ -39,7 +39,7 @@ practical labs.
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-GCIH-FFD700?style=for-the-badge&logo=GIAC&logoColor=FF0000&labelColor=FF0000" />
+<img src="https://imgur.com/zMyKJSE" />
 <img src="https://img.shields.io/badge/-GSEC-FFD700?style=for-the-badge&logo=GIAC&logoColor=000080&labelColor=000080" />
 
 </div>
