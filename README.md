@@ -5,16 +5,11 @@ I have recently left the military after nearly five years as a Cyber Defense Ana
 practical labs. 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
+| Projects                                     | Skills         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/enriquemed23/Detection-Lab/tree/main">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/enriquemed23/Detection-Lab/tree/main">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| <a href="https://github.com/enriquemed23/Detection-Lab/tree/main">Detection Lab</a>|SIEM Implementation and Log Analysis<br> Network Traffic Monitoring and Attack Detection         |
+| SOC Automation Lab| Security Automation with Shuffle SOAR <br>Incident Response Planning and Execution <br> Case Management with TheHive <br> Scripting and Automation for Threat Mitigation |
 
 ## Tools
 ### Network
@@ -39,11 +34,7 @@ practical labs.
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/GCIH-ffd700" />
-<img src="https://img.shields.io/badge/GSEC-ffd700" />
+<img src="https://img.shields.io/badge/GCIH-ffd700?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/GSEC-ffd700?&style=for-the-badge&logoColor=white" />
 
 </div>
-
-## Projects
-- <a href="https://github.com/enriquemed23/Detection-Lab/tree/main">Detection Lab</a>
-- SOC Automation Project
