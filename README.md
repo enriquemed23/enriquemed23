@@ -39,8 +39,8 @@ practical labs.
 
 ## Certifications
 <div>
-<img src="https://imgur.com/OKgQMAA.png" height="80%" width="80%" />
-<img src="https://img.shields.io/badge/-GSEC-FFD700?style=for-the-badge&logo=GIAC&logoColor=000080&labelColor=000080" />
+<img src="https://img.shields.io/badge/GCIH-ffd700" />
+<img src="https://img.shields.io/badge/GSEC-ffd700" />
 
 </div>
 
